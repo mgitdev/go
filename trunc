@@ -1,0 +1,14 @@
+package main
+
+import "fmt"
+
+var float_number int
+
+func main(){
+
+	fmt.Scan(&float_number)
+
+	var number int = int(float_number)
+
+	fmt.Println(number)
+}
