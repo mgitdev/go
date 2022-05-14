@@ -11,4 +11,6 @@ func main(){
 	var number int = int(float_number)
 
 	fmt.Println(number)
+	fmt.Println(number)
+	
 }
